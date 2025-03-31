@@ -1,0 +1,15 @@
+.pick{
+    background-color: #FFF7F3;
+}
+.social{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+.Quick{
+    list-style-type: none;
+    font-weight: bold;
+}
+.flav{
+    list-style-type: none;
+}

@@ -1,0 +1,11 @@
+.video{
+    background-image: url(../public/images/illustration/video-bg.png);
+    height: 500px;
+}
+
+@media(min-width:320px){
+    .video{
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}

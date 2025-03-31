@@ -1,0 +1,18 @@
+*{
+    
+  overflow-x: hidden;
+}
+.imgs-box{
+    background-image: url(../public/images/illustration/h1_hero1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.main-img{
+    position: absolute;
+    bottom: 10%;
+}
+.con-text{
+    top: 27%;
+}
